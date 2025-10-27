@@ -12,3 +12,4 @@ C:\Users\IMAC\Desktop\MiProyectoCSharp\obj\Debug\net9.0\refint\MiProyectoCSharp.
 C:\Users\IMAC\Desktop\MiProyectoCSharp\obj\Debug\net9.0\MiProyectoCSharp.pdb
 C:\Users\IMAC\Desktop\MiProyectoCSharp\obj\Debug\net9.0\MiProyectoCSharp.genruntimeconfig.cache
 C:\Users\IMAC\Desktop\MiProyectoCSharp\obj\Debug\net9.0\ref\MiProyectoCSharp.dll
+C:\Users\IMAC\Desktop\MiProyectoCSharp\obj\Debug\net9.0\MiProyectoCSharp.sourcelink.json
